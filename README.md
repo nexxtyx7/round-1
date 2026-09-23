@@ -1,8 +1,9 @@
-# Round 1 — Guto Oliveira
+# ROUND 1 — Guto Oliveira
 
-Site pronto para publicação em GitHub Pages.
+Site estático pronto para GitHub Pages.
 
-- Hero: `round1-boxer.png`
-- Segunda imagem: fotografia distinta do Unsplash, usada na seção de combate.
-- WhatsApp: +55 16 99363-1131
-- Instagram: @gutonutriresportivo
+## Publicação
+Envie todos os arquivos desta pasta para o repositório e ative GitHub Pages em Settings → Pages → Deploy from a branch → main → / (root).
+
+Instagram: @gutonutriesportivo
+WhatsApp: +55 16 99363-1131
