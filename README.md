@@ -2,8 +2,9 @@
 
 Site estático pronto para GitHub Pages.
 
-## Publicação
-Envie todos os arquivos desta pasta para o repositório e ative GitHub Pages em Settings → Pages → Deploy from a branch → main → / (root).
+- Imagem principal local: `round1-boxer.png`
+- Segunda imagem: foto externa via HTTPS
+- WhatsApp: +55 16 99363-1131
+- Instagram: @gutonutriesportivo
 
-Instagram: @gutonutriesportivo
-WhatsApp: +55 16 99363-1131
+No GitHub Pages, deixe `index.html`, os arquivos JS/CSS e `round1-boxer.png` na raiz da publicação.
