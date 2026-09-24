@@ -1,7 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900">
-<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#191a1c"/><stop offset="1" stop-color="#050505"/></linearGradient><radialGradient id="r"><stop stop-color="#d71920" stop-opacity=".55"/><stop offset="1" stop-color="#d71920" stop-opacity="0"/></radialGradient></defs>
-<rect width="1200" height="900" fill="url(#g)"/><circle cx="930" cy="230" r="420" fill="url(#r)"/>
-<g fill="none" stroke="#fff" stroke-opacity=".14"><circle cx="600" cy="450" r="300"/><circle cx="600" cy="450" r="220"/><circle cx="600" cy="450" r="140"/></g>
-<g stroke="#d71920" stroke-width="18" stroke-linecap="round"><path d="M270 650h660"/><path d="M420 570v160"/><path d="M780 570v160"/><path d="M340 600h520"/><path d="M380 540h440"/></g>
-<g fill="#fff"><text x="600" y="170" text-anchor="middle" font-family="Arial,sans-serif" font-size="42" font-weight="700" letter-spacing="9">PERFORMANCE</text><text x="600" y="820" text-anchor="middle" font-family="Arial,sans-serif" font-size="20" letter-spacing="5" opacity=".55">ROUND 1 · NUTRIÇÃO ESPORTIVA</text></g>
-</svg>
